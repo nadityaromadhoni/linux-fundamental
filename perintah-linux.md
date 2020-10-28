@@ -6,10 +6,7 @@ Author: naditya
 # Perintah Dasar Linux
 > Catatan Perintah dasar Linux
 >
-> Belajar Dasar Perintah Linux Untuk Pemula
-ls
-cp
-cd
+> > Untuk Para Pemula
 
 1. First item
 2. Second item
