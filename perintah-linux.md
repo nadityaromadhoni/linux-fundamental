@@ -16,3 +16,5 @@ Author: naditya
 * Github
 * Netlify
 * Gatsby
+* contentful
+
